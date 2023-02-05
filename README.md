@@ -11,7 +11,7 @@ Uber clone in react native.
 ## installation
 
 ```
-yern
+yarn install
 ```
 
 or
@@ -25,4 +25,4 @@ npm install
 [Live demo](https://expo.io/@coderkhalid/projects/uber-clone)
 
 # My Portfolio 
-[khaliddev.com](https://www.khaliddev.com/)
+[Cyrus Portfolio](https://cyrusgm.netlify.app/)
