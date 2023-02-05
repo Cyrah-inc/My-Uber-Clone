@@ -22,7 +22,7 @@ npm install
 
 ### live demo on Expo
 
-[Live demo](https://expo.io/@coderkhalid/projects/uber-clone)
+[Live demo](exp://exp.host/@sleebeb/uber-clone?release-channel=default)
 
 # My Portfolio 
 [Cyrus Portfolio](https://cyrusgm.netlify.app/)
